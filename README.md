@@ -1,2 +1,2 @@
 # Blog-FrontEnd-API-Rest
-Este blog contém o uso de uma api rest de postagens;
+Projeto criado para mostrar um consumo de API REST, usando o AngularJS. Usei o bootstrap para dar um layout legal, e em poucas linhas é possível fazer.
